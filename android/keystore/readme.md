@@ -15,7 +15,7 @@ Documentation: https://docs.appgyver.com/docs/android-builds
    cd path/to/directory
      ```
 5) Run the following command:
-   ```
+   ```shell
    keytool -genkey -v -keystore my-app-name.keystore -alias my-app-name -keyalg RSA -keysize 2048 -validity 10000
    ```
     Don't forget to change the `my-app-name` for your actual app name.
