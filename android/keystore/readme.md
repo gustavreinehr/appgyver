@@ -24,4 +24,5 @@ Documentation: https://docs.appgyver.com/docs/android-builds#keystore
 9) When finished, you will have the following information to enter to AppGyver:
    - **Keystore File** - It's your `my-app-name.keyword`. It will be located in the folder where you ran the `keytool` command;
    - **Keystore Password** - It's the password you entered;
-   - **Keystore Alias** - This is the `my-app-name`.
+   - **Keystore Alias** - This is the `my-app-name`;
+   - **Keystore Alias Password** - It's the same password you entered before;
